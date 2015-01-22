@@ -15,6 +15,9 @@ It’s my first WP plugin ever. Must say, it works really nice. This version is 
 
 == Changelog ==
 
+= 0.2 =
+* Put the stuff on GitHub, my first time
+
 
 = 0.1 =
 * Figured out how all this works
